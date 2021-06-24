@@ -1,18 +1,1 @@
-{
-	"title": "Title",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "Игорь владелец бублика"
-        },
-        "description": {
-            "type": "string",
-            "description": "Красивый бублик"
-        },
-        "image": {
-            "type": "string",
-            "description": "https://yt3.ggpht.com/ytc/AAUvwnjRV0KMauUPWzZAqeHzI2V51c6dwwnOteMbnSgH=s900-c-k-c0x00ffffff-no-rj"
-        }
-    }
-}
+{"title":"Title","type":"object","properties":{"name":{"type":"string","description":"Игорь владелец бублика"},"description":{"type":"string","description":"Красивый бублик"},"image":{"type":"string","description":"https://yt3.ggpht.com/ytc/AAUvwnjRV0KMauUPWzZAqeHzI2V51c6dwwnOteMbnSgH=s900-c-k-c0x00ffffff-no-rj"}}}
